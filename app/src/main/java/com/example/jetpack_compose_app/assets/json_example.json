@@ -1,0 +1,8 @@
+{
+  "key": "MyButton",
+  "value": {
+    "text": "Aceitar",
+    "align": "CENTER",
+    "color": "#40e0d0"
+  }
+}

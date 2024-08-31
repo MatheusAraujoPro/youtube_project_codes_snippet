@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">jetpack_compose_app</string>
+    <string name="ending_text">Isso é tudo pessoal do %s</string>
+    <string name="channel_name">Codando TV</string>
+</resources>
